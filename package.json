@@ -1,7 +1,7 @@
 {
   "name": "rrpf",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "pnpm@7.9.0",
   "description": "Reliable relative path of the file",
   "author": "Liam Shi <liamrad@163.com>",
