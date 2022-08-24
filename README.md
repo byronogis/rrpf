@@ -21,6 +21,11 @@ npm i rrpf
 ```js
 // module
 import rrpf from 'rrpf'
+
+rrpf('./path/to/file/foo.*')
+```
+
+```js
 // or commonjs
 const rrpf = require('rrpf')
 
